@@ -128,3 +128,4 @@
 /home/daniel/Projects/NET_EF_CORE/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /home/daniel/Projects/NET_EF_CORE/obj/Debug/net8.0/NET_EF_CORE.csproj.AssemblyReference.cache
 /home/daniel/Projects/NET_EF_CORE/obj/Debug/net8.0/NET_EF_C.28EB3796.Up2Date
+/home/daniel/Projects/NET_EF_CORE/obj/Debug/net8.0/NET_EF_CORE.sourcelink.json
